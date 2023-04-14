@@ -1,6 +1,6 @@
 # NASA-MERRA-2-temperature-layers-for-Bogota
 
-# This R script downloads data from NASA's MERRA-2 global atmospheric reanalysis. 
+This R script downloads data from NASA's MERRA-2 global atmospheric reanalysis. 
 # Two variable collecitons are downloaded: Air temprature for different pressure levels and Air temperature at surface level.
 # The images for these variables colletions are then filterd and aggregated to create a dataset suitable for statistical analysis.
 
