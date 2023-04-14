@@ -10,4 +10,4 @@ Supplementary material about the available variables of MERRA 2 can be found [he
 
 [1_download_merra2_raster_data.R](https://github.com/emilio-leguizamo/NASA-MERRA-2-download-and-transform-to-dataframe/blob/main/1_download_merra2_raster_data.R): Downloads images form NASA's GES DISC repository, make sure to have an active user and have requested downlad links for the data (save the .txt file with the links in the main directory before running the code). 
 
-[2_air_temp_dataset.R](https://github.com/emilio-leguizamo/NASA-MERRA-2-download-and-transform-to-dataframe/blob/main/2_air_temp_dataset.R): This file loops over teh downloaded images and extracts key informaiton to compose a data frame that can be used for statistical analysis. 
+[2_air_temp_dataset.R](https://github.com/emilio-leguizamo/NASA-MERRA-2-download-and-transform-to-dataframe/blob/main/2_air_temp_dataset.R): This file loops over the downloaded images and extracts key information to compose a data frame that can be used for statistical analysis. 
