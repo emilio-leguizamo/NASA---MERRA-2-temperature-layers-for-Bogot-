@@ -4,7 +4,7 @@ This R script downloads data from NASA's MERRA-2 global atmospheric reanalysis.
 Two variable collecitons are downloaded: Air temprature for different pressure levels and Air temperature at surface level.
 The images for these variables colletions are then filterd and aggregated to create a dataset suitable for statistical analysis.
 
-NOTE: Before running the script, set up your ~/.netrc file as listed here: https://wiki.earthdata.nasa.gov/display/EL/How+To+Access+Data+With+cURL+And+Wget
+NOTE: Before running the script, set up your ~/.netrc file as listed [here](https://wiki.earthdata.nasa.gov/display/EL/How+To+Access+Data+With+cURL+And+Wget)
 
-Supplementary material about the available variables of MERRA 2 can be found here: [https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2C0NXASM.5.12.4/doc/MERRA2.README.pdf]
+Supplementary material about the available variables of MERRA 2 can be found [here](https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2C0NXASM.5.12.4/doc/MERRA2.README.pdf).
 
