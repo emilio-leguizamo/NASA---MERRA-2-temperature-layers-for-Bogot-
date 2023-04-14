@@ -8,3 +8,6 @@ NOTE: Before running the script, set up your ~/.netrc file as suggested by [eart
 
 Supplementary material about the available variables of MERRA 2 can be found [here](https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2C0NXASM.5.12.4/doc/MERRA2.README.pdf).
 
+[1_download_merra2_raster_data.R](https://github.com/emilio-leguizamo/NASA-MERRA-2-download-and-transform-to-dataframe/blob/main/1_download_merra2_raster_data.R): Downloads images form NASA's GES DISC repository, make sure to have an active user and have requested downlad links for the data (save the .txt file with the links in the main directory before running the code). 
+
+[2_air_temp_dataset.R](https://github.com/emilio-leguizamo/NASA-MERRA-2-download-and-transform-to-dataframe/blob/main/2_air_temp_dataset.R): This file loops over teh downloaded images and extracts key informaiton to compose a data frame that can be used for statistical analysis. 
